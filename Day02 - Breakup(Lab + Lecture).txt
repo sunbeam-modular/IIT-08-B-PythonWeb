@@ -1,0 +1,18 @@
+1.Installation :- 1. Git
+		  2. VS Code
+	          3. NodeJS
+		  4. Python
+		  5. MySQL
+		  6. Postman
+
+2. Git Implementation Basic
+
+3. Group Formation
+
+4. Git implement
+
+5. Project Introduction
+
+Afternoon session
+
+1. MySQL lecture

@@ -1,0 +1,15 @@
+1. Test Repo - Rename - Sunbeam_Internship_Roll-No
+
+2. Folder Name - Day3 - 1. Classwork
+	  		2. Assignment
+
+3. Classwork - 
+	1. MySQL database lecture practice - Upload in Day3 - Classwork folder of Sunbeam_Internship_Roll-No Repo
+
+4. Project based assignment -
+	1. Start thinking about tables. - Upload in Day3 - Assignment folder of Sunbeam_Internship_Roll-No Repo
+	
+5. Solve Project based assignment
+	1. Create .sql file and directly import in the database - Upload in Database - Database folder of Project Repo
+
+6. JavaScript Lecture - (02:00 pm - 04:00 pm)
