@@ -1,0 +1,8 @@
+1. Installation :- 1. Git
+		   2. VS Code
+	           3. NodeJS
+		   4. Python
+		   5. MySQL
+		   6. Postman
+
+2. Git Lecture

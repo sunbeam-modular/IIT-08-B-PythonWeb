@@ -1,0 +1,28 @@
+1. Lecture - HTML & CSS
+
+HTML-
+1. Tag
+2. Attribute
+3. HTML Structure
+4. Text Tag
+5. Formatting Tag
+6. List Tag
+7. Table Tag
+8. Form Tag
+9. Resource Tag
+10. Link Tag(Anchor)
+
+CSS-
+1. Types of CSS
+2. CSS Selector 
+
+
+
+2. Classwork - 
+	1. HTML & CSS lecture practice - Upload in Day5 - Classwork folder of Sunbeam_Internship_Roll-Num -> Repo
+
+3. Assignment -
+	1. HTML Assignment - Upload in Day5 - Assignment folder of Sunbeam_Internship_Roll-Num -> Repo
+
+4. 1. Lecture - JavaScript (02:00 pm - 04:00 pm)
+	
