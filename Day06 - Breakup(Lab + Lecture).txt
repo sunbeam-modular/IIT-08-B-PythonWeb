@@ -1,0 +1,9 @@
+1. Python Basic - 10 Demos 
+
+2. JS Lecture Practice
+
+3. Python Demo's Practice
+
+4. Python With Json - Assignment
+
+5. Assignment - HTML & CSS - Login & Registration Page
