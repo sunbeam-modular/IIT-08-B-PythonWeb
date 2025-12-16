@@ -1,0 +1,21 @@
+1. Python Basic - 10 Demos 
+1. Data types 
+2. Input accept by user
+3. Type casting
+4. Conditional Statement
+5. Loops:-
+	1. For each
+	2. While
+6. Function
+	1. Parameter less function
+	2. Parameterize Function 
+	3. Anonymous function - Lambda
+
+
+2. JS Lecture Practice
+
+3. Python Demo's Practice
+
+4. Python With Json - Assignment
+
+5. Assignment - HTML & CSS - Login & Registration Page
