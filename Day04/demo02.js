@@ -1,0 +1,18 @@
+const arr = [11, 22, 33, 44, 55, 66, 77, 88]
+
+// To display only the even numbers
+for (const e of arr)
+    if (e % 2 == 0)
+        console.log(e)
+
+// When only the requirement is for validation/checking the values
+// use the filter() from the array
+console.log("using filter -> ")
+arr
+    .filter((value, index, array) => {
+        return value % 2 == 0
+    }) // filter returns the array of numbers
+    .forEach(value => console.log(value))
+
+console.log("using filter in single line -> ")
+arr.filter(value => value % 2 != 0).forEach(value => console.log(value))
