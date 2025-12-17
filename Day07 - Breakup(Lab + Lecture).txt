@@ -1,0 +1,10 @@
+Python Session - 1. List => 1 Array
+			    2 Set
+			    3 Dictionary
+			    4 Tuple
+		2. List of list
+		3. Packages
+
+Python Assignments
+
+JS Assignment 

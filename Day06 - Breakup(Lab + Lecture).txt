@@ -9,13 +9,13 @@
 6. Function
 	1. Parameter less function
 	2. Parameterize Function 
-	3. Anonymous function - Lambda
+	3. Lambda function
 
 
 2. JS Lecture Practice
 
 3. Python Demo's Practice
 
-4. Python With Json - Assignment
+4. Assignment - HTML & CSS - Login & Registration Page
 
-5. Assignment - HTML & CSS - Login & Registration Page
+5. Python With json - Assignment
