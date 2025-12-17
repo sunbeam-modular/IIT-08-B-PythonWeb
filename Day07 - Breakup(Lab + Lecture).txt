@@ -5,6 +5,6 @@ Python Session - 1. List => 1 Array
 		2. List of list
 		3. Packages
 
-Python Assignments
+Python Assignments - Assignment-1 & Assignment-2
 
 JS Assignment 
