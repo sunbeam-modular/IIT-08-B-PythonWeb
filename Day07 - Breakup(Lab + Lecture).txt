@@ -1,10 +1,17 @@
-Python Session - 1. List => 1 Array
-			    2 Set
-			    3 Dictionary
-			    4 Tuple
-		2. List of list
-		3. Packages
+Python Session - Topics Covered
+- Array
+- Tuple
+- Set
+- Dictionary 
+- List of lists
+- List of tuples
+- List dictionaries
+- Modules
+   - introduction, 
+   - implementation 
+   - importing
+- Packages and their usage
 
 Python Assignments - Assignment-1 & Assignment-2
 
-JS Assignment 
+JS Assignment - Assignment - 2 
