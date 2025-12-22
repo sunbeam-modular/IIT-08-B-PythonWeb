@@ -7,3 +7,5 @@
 4. Assignment - 1 MySQL connector + Terminal
 
 5. Assignmnet - 2 MySQL connector + Postman
+
+6. Python Flask with MySQL connector Lecture
