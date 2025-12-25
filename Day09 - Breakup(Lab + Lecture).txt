@@ -2,4 +2,4 @@
 
 2. Project Based API implementation start
 
-3. Authentication and Autherisation Lecture
+3. Authentication and Authorization Lecture

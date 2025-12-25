@@ -1,0 +1,13 @@
+1. Dummy Home Page, About Page already created
+
+2. Check SignIn(Login) & SignUp(Register)
+
+3. Create Detail Home Page & About Page => 
+
+On Home page => add courses cards and in that courses cards Add Register button => User Registration for individual course completed. (On Home page show courses on future dates) 
+
+4. Complete SignIn process with Admin as well as Student/User.
+
+5. After Student Login Enrolled Course Tab must be visible. 
+
+6. After Admin Login Admin Tab must be visible.

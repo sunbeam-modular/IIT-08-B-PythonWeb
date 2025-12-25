@@ -1,0 +1,22 @@
+Admin Pages- 
+
+1. After Login => Admin Tab must be visible on the navbar
+
+2. Admin tab must be in drop down form => 1. Courses
+					  2. Videos
+					  3. Enrolled Students
+
+3. Courses=> 1. Add New Course
+	     2. Edit Course
+	     3. Delete Course
+
+4. Videos => 1. Add New Video
+	     2. View Video
+	     3. Edit 
+	     4. Delete
+
+5. Enrolled Students => 1. Display Student
+			2. Sort => 1. According Course
+				   2. Search By Name
+				   3. Sort By Registration Date
+				   4. Assen. & Dessen. Order

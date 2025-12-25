@@ -1,4 +1,6 @@
 1. Lecture => Router, CORS, Single file code structure => Multiple file code structure
 
-2. Project Based API implementation start
+2. Project Based API implementation
+
+3. React Lecture
 
