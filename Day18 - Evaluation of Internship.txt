@@ -1,0 +1,19 @@
+Evaluation of Internship
+
+1. HR Interview 10 marks
+
+2. video Evaluation 10 marks
+
+3. Assignment 10 marks
+
+4. Classwork 10 marks
+
+5. Database 5 marks
+
+6. Backend 20 marks
+
+7. API collection 5 marks
+
+8. Frontend 20 marks
+
+9. Viva Technical 10 marks

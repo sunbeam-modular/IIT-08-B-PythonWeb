@@ -1,0 +1,44 @@
+Project Video =>
+
+
+| Section                | Duration |
+| ---------------------- | -------- |
+| Introduction           | 1 min    |
+| Tech Stack             | 1 min    |
+| ER Diagram             | 1 min    |
+| Database               | 1 min    |
+| Backend (Postman APIs) | 3 min    |
+| Frontend Demo          | 2 min    |
+| Conclusion             | 1 min    |
+
+
+What to show
+
+1. Project Introduction => Project Title slide
+
+2. Tech Stack => 
+	Frontend: ReactJS
+	Backend: Python Flask
+	Database: MySQL
+	API Testing: Postman
+	Authentication: JWT based authentication
+
+3. ER Diagram => ER Diagram image
+
+4. Database => MySQL Workbench
+
+5. Backend => API Demonstration
+
+6. Frontend Demo => Browser → Frontend UI
+
+7. Conclusion & Future Scope
+
+
+Recording Tips (Important)
+
+1. Use Zoom => Screen Share
+2. Keep camera ON for intro & conclusion
+3. Speak slow and confident
+4. Keep Postman responses visible
+5. Use images/screenshots instead of heavy slides
+6. Video duration => 10 mins detail video
