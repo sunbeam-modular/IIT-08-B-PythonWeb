@@ -1,0 +1,6 @@
+Admin Side => Register Count (Course Wise)
+
+Student Side => 1. Courses => Enrolled Courses
+
+		2. Profile => Blob image coding
+			   => Profile tab in Nav bar
