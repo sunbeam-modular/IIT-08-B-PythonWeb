@@ -1,0 +1,23 @@
+Deployments:-
+Hosting
+
+MERN
+Web Programming using python
+
+AWS
+Azure
+
+Frontend - 1. Versel
+	   2. Netlify
+
+Backend - 1. ExpressJS => Railway
+	  2. Python-Flask => PythonAnywhere
+
+Database - 1. ExpressJS => Railway
+	   2. Python-Flask => PythonAnywhere 
+
+Tech:- 1. Frontend
+       2. Backend
+       3. Database
+
+Tools:- 
